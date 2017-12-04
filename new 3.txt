@@ -1,0 +1,5 @@
+https://www.marginallyclever.com/other/samples/fk-ik-test.html
+file:///C:/Users/Vikrant/Downloads/TheDeltaParallelRobot_KinematicsSolutionsR.L.Williams.pdf
+http://cats-fs.rpi.edu/~wenj/ECSE641S07/delta_calibration.pdf
+https://www.marginallyclever.com/other/samples/fk-ik-test.html
+http://forums.trossenrobotics.com/tutorials/introduction-129/delta-robot-kinematics-3276/
